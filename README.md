@@ -12,8 +12,10 @@
 
 
 ## Day 2 — Loops, lists, dicts, functions
-**What I learned:** ...
-**What was difficult:** ...
+**What I learned:** How to use for and while loops, store data in lists and dictionaries, and write reusable functions with parameters and return values. I also learned how to handle infinite loops and scope (variables inside vs outside functions).
+
+**What was difficult:** The logic for the sum of digits and finding min/max without built-in functions was difficult to comprehend. Remembering to return values in the correct order was quite tricky.
+
 
 ## Day 3 — Files, errors, modules
 **What I learned:** ...
