@@ -18,8 +18,8 @@
 
 
 ## Day 3 — Files, errors, modules
-**What I learned:** ...
-**What was difficult:** ...
+**What I learned:** How to read CSV files using the `csv` module, handle file errors with `try/except`, and process real data into dictionaries to calculate totals and sort results.
+**What was difficult:** Remembering that CSV files read numbers as strings, so I had to convert `Quantity` to `int` and `UnitPrice_GHS` to `float` before doing the math. Overall, this part was confusing.
 
 ## Day 4 / Project — JSON & APIs
 **What I learned:** ...
